@@ -2,7 +2,7 @@
 
 [![Code Climate](https://codeclimate.com/repos/57a5f7834b22b0768a0002a7/badges/1af5cf4491504f26b8c5/gpa.svg)](https://codeclimate.com/repos/57a5f7834b22b0768a0002a7/feed)
 [![Build Status](https://travis-ci.org/nysthee/pronto-slim.svg?branch=master)](https://travis-ci.org/nysthee/pronto-slim)
-[![Gem Version](https://badge.fury.io/rb/pronto-haml.png)](http://badge.fury.io/rb/pronto-haml)
+[![Gem Version](https://badge.fury.io/rb/pronto-slim.svg)](https://badge.fury.io/rb/pronto-slim)
 [![Dependency Status](https://gemnasium.com/badges/github.com/nysthee/pronto-slim.svg)](https://gemnasium.com/github.com/nysthee/pronto-slim)
 
 Pronto runner for [SLIM-Lint](https://github.com/sds/slim-lint), tool for writing clean and consistent SLIM. [What is Pronto?](https://github.com/mmozuras/pronto)
