@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary       = 'Pronto runner for SLIM-Lint, tool for writing clean and consistent SLIM'
 
   s.licenses = ['MIT']
-  s.required_ruby_version = '>= 1.9.3'
+  s.required_ruby_version = '>= 2.0.0'
   s.rubygems_version = '1.8.23'
 
   s.files = `git ls-files`.split($RS).reject do |file|
