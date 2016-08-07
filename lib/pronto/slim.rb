@@ -13,7 +13,7 @@ module Pronto
       return [] unless @patches
 
       @patches.select { |patch| patch.additions > 0 }
-              .select { |patch| haml_file?(patch.new_file_full_path) }
+              .select { |patch| slim_file?(patch.new_file_full_path) }
               .map { |patch| inspect(patch) }
               .flatten.compact
     end
