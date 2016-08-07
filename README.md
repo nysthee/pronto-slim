@@ -1,6 +1,6 @@
 # Pronto runner for SLIM-Lint
 
-[![Code Climate](https://codeclimate.com/repos/57a5f7834b22b0768a0002a7/badges/1af5cf4491504f26b8c5/gpa.svg)](https://codeclimate.com/repos/57a5f7834b22b0768a0002a7/feed)
+[![Code Climate](https://codeclimate.com/github/nysthee/pronto-slim/badges/gpa.svg)](https://codeclimate.com/github/nysthee/pronto-slim)
 [![Build Status](https://travis-ci.org/nysthee/pronto-slim.svg?branch=master)](https://travis-ci.org/nysthee/pronto-slim)
 [![Gem Version](https://badge.fury.io/rb/pronto-slim.svg)](https://badge.fury.io/rb/pronto-slim)
 [![Dependency Status](https://gemnasium.com/badges/github.com/nysthee/pronto-slim.svg)](https://gemnasium.com/github.com/nysthee/pronto-slim)
