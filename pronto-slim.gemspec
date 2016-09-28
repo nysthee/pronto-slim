@@ -10,7 +10,8 @@ Gem::Specification.new do |s|
   s.authors       = ['Thomas Nys']
   s.email         = ['nysthee@gmail.com']
   s.homepage      = 'https://github.com/nysthee/pronto-slim'
-  s.summary       = 'Pronto runner for SLIM-Lint, tool for writing clean and consistent SLIM'
+  s.summary       = 'Pronto runner for SLIM-Lint, tool for writing clean
+                     and consistent SLIM'
 
   s.licenses = ['MIT']
   s.required_ruby_version = '>= 2.0.0'
@@ -34,7 +35,7 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency('pronto', '~> 0.7.0')
   s.add_runtime_dependency('slim_lint', '~> 0.8.2')
-  s.add_development_dependency('rake', '~> 11.2.2')
+  s.add_development_dependency('rake', '~> 11.3.0')
   s.add_development_dependency('rspec', '~> 3.4')
   s.add_development_dependency('rspec-its', '~> 1.2')
 end
