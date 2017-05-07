@@ -33,8 +33,8 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = ['LICENSE', 'README.md']
   s.require_paths = ['lib']
 
-  s.add_runtime_dependency('pronto', '~> 0.8.2')
-  s.add_runtime_dependency('slim_lint', '~> 0.11.0')
+  s.add_runtime_dependency('pronto', '~> 0.9.2')
+  s.add_runtime_dependency('slim_lint', '~> 0.12.0')
   s.add_development_dependency('rake', '~> 12.0')
   s.add_development_dependency('rspec', '~> 3.5')
   s.add_development_dependency('rspec-its', '~> 1.2')
