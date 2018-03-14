@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
 
   s.add_runtime_dependency('pronto', '~> 0.9.2')
-  s.add_runtime_dependency('slim_lint', '~> 0.12.0')
+  s.add_runtime_dependency('slim_lint', '~> 0.15.1')
   s.add_development_dependency('rake', '~> 12.0')
   s.add_development_dependency('rspec', '~> 3.5')
   s.add_development_dependency('rspec-its', '~> 1.2')
